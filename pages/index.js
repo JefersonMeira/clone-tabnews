@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Realizando novos testes!</h1>
+    return <h1>Testes do git pull e git push</h1>
 }
 
 
